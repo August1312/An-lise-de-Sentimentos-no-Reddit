@@ -22,4 +22,4 @@ Este projeto tem como objetivo realizar uma análise de sentimentos em postagens
 2. Conta no Reddit com permissões para criar um aplicativo.
 3. Bibliotecas instaladas com o comando:
    ```bash
-   pip install praw textblob pandas matplotlib seaborn
+   pip install -r requirements.txt
